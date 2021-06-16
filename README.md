@@ -1,5 +1,5 @@
 # PG_ADS_SECT
-It's project for Algorithms and Data Structures classes made in 2019
+It's a project for Algorithms and Data Structures classes made in 2019
 
 Sect
 
